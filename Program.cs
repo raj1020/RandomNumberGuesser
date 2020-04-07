@@ -23,6 +23,9 @@ namespace Password_retry
             string congrats = "Congratulations for guessing the right number.";
             string wrong = "Sorry the number you entered is incorrect";
             string again = "Do you want to try again? Enter 'y' for 'yes' and 'n' for 'no'.";
+
+            // Hare ram hare ram! Ram Ram hare hare! Hare Krishna Hare Krishna Krishna Krishna Hare Hare
+
             
 
             switch (choice)
