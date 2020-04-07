@@ -15,7 +15,7 @@ namespace Password_retry
             Console.WriteLine("4. Unfair");
 
             int choice = Convert.ToInt32(Console.ReadLine());
-            // Hey Bhagwan Mero Khalti ko ghau, aru dherai nacharkau
+           
 
 
             
@@ -24,7 +24,7 @@ namespace Password_retry
             string wrong = "Sorry the number you entered is incorrect";
             string again = "Do you want to try again? Enter 'y' for 'yes' and 'n' for 'no'.";
 
-            // Hare ram hare ram! Ram Ram hare hare! Hare Krishna Hare Krishna Krishna Krishna Hare Hare
+            
 
             
 
@@ -62,6 +62,8 @@ namespace Password_retry
 
                         break;
                     }
+
+                    //My commits are not showing in my Github profile. 
 
                 case 2:
                     {
